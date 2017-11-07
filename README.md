@@ -1,2 +1,2 @@
-# cnj-config-server
+# cnj-config
 Configuration Server
